@@ -1,3 +1,8 @@
+# Update
+
+**nginxtune-enhance has been rolled up into a new repo; webservertune-enhance: https://github.com/rdbf/webservertune-enhance**
+**webservertune-enhance includes functionality for OpenLiteSpeed and other fixes / modifications. This repo is therefore no longer maintained.**
+
 # nginxtune-enhance
 
 **Version:** 0.3.9  
